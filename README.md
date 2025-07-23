@@ -12,16 +12,16 @@ The goal of this repository is to document my learning journey in Flutter. Every
 
 ## 📂 Folder Structure
 
-Flutter-Learning/
-├── aplikasi_hello_world/
-    └── ...
-├── test_instalasi_dart/
-    └── ...
-├── test_instalasi_flutter/
-    └── ...
-└── README.md
+    Flutter-Learning/
+    ├── aplikasi_hello_world/
+        └── ...
+    ├── test_instalasi_dart/
+        └── ...
+    ├── test_instalasi_flutter/
+        └── ...
+    └── README.md
 
-Each subfolder represents a different topic or project I’ve worked on during the learning process.
+> Each subfolder represents a different topic or project I’ve worked on during the learning process.
 
 ---
 
